@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Can-Redefine-Classes: true
+Can-Retransform-Classes: true
+Agent-Class: com.weaver.check.agent.runtime.AgentPermain
+Premain-Class: com.weaver.check.agent.runtime.AgentPermain
